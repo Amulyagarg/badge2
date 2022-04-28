@@ -1,1 +1,3 @@
-THis is the main file
+import streamlit
+
+streamlit.title("My New Healthy Dinner")
